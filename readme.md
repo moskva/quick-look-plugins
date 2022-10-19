@@ -90,7 +90,7 @@ Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/
 
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
-### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
+### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) 👍
 
 > Preview the contents of a standard Apple installer package
 
@@ -98,7 +98,7 @@ Run `brew install suspicious-package` or [download manually](https://www.mothers
 
 [![](screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
 
-### [Apparency](https://www.mothersruin.com/software/Apparency/)
+### [Apparency](https://www.mothersruin.com/software/Apparency/) 👍
 
 > Preview the contents of a macOS app
 
